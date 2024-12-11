@@ -1,3 +1,13 @@
+"""
+Name : Alejandro Acebal
+Date : 12/11/2024
+Data: Fast Food USA
+Description: This program aims to provide people a tool to find fast food locations near them. To look at data
+and compare fast food in states and the amount of fast food chains in the country.
+
+
+
+
 import pandas as pd
 import pydeck as pdk
 import os
