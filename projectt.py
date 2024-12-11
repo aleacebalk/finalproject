@@ -13,7 +13,6 @@ import pydeck as pdk
 import os
 import streamlit as st
 import toml
-import matplotlib.pyplot as plt
 import re
 
 # Read the CSV file and create a DataFrame
