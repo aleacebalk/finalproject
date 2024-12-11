@@ -12,6 +12,7 @@ import pandas as pd
 import pydeck as pdk
 import os
 import streamlit as st
+import matplotlib.pyplot as plt
 import toml
 import re
 
